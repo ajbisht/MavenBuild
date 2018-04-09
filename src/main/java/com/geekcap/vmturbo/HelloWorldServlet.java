@@ -1,4 +1,4 @@
-package com.geekcap.vmturbo;
+package com.geekicap.vmturbo;
 
 import javax.servlet.*;
 import javax.servlet.http.*;
