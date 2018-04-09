@@ -64,7 +64,7 @@
       <dependencies>
         <dependency>
           <groupId>org.sonarsource.java</groupId>
-          <artifactId>sonar-jacoco-listeners</artifactId>
+          <artifactId>sonar--listeners</artifactId>
           <version>3.8</version>
           <scope>test</scope>
         </dependency>
